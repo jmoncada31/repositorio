@@ -2,6 +2,6 @@ Esta es una prueba de git
 
 Javier Andres Moncada Delgado 
 
-trabajo en TopGroup como desarrollador Java (CAMBIOS)
+trabajo en TopGroup como desarrollador Java
 
-Agregamos una nueva linea. XXXXXXXXXXXXX
+trayendo cambios antiguos.
